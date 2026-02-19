@@ -13,6 +13,14 @@ pnpm dev
 # or
 bun dev
 ```
+## 🔐 Demo Access
+
+To explore the full capabilities of the **OrionONE** dashboard without setting up a local environment, you can use the following preview credentials:
+
+* **Email:** `admin@orionone.com` (veya kendi e-postan)
+* **Password:** `Password`
+
+> **Note:** This is a restricted preview environment designed for architectural review and UI/UX evaluation.
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
