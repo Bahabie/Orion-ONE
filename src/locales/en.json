@@ -1,0 +1,118 @@
+{
+  "nav": {
+    "command": "Hub",
+    "operations": "Operations",
+    "finops": "FinOps",
+    "signals": "Signals"
+  },
+  "header": {
+    "title": "Enterprise AI Platform Online",
+    "subtitle": "Operations center • All systems operational"
+  },
+  "metrics": {
+    "activeDeployments": "Active Deployments",
+    "monthlyBurn": "Monthly Cloud Spend",
+    "efficiency": "Cloud Efficiency"
+  },
+  "operations": {
+    "title": "Active Deployments",
+    "viewAll": "View all",
+    "progress": "Progress",
+    "due": "Due",
+    "deployed": "Deployed",
+    "inProgress": "In Progress",
+    "failed": "Failed"
+  },
+  "clients": {
+    "nebulaLabs": "Nebula Labs",
+    "phoenixCorp": "Phoenix Corp",
+    "cosmosInc": "Cosmos Inc",
+    "stellarMedia": "Stellar Media",
+    "orbitTech": "Orbit Tech"
+  },
+  "deploymentNames": {
+    "azureOpenAIIntegration": "Azure OpenAI Integration",
+    "cognitiveServicesDeployment": "Cognitive Services Deployment",
+    "mlPipelineOptimization": "ML Pipeline Optimization",
+    "aiHubInfrastructure": "AI Hub Infrastructure",
+    "dataProcessingCluster": "Data Processing Cluster"
+  },
+  "finops": {
+    "header": {
+      "title": "FinOps Command",
+      "subtitle": "Cloud cost analytics • Real-time resource tracking"
+    },
+    "budgetHealth": {
+      "title": "Cloud Budget Status",
+      "monthlyBudget": "Monthly Budget",
+      "ytdUtilization": "YTD Utilization"
+    },
+    "spend": {
+      "title": "Cloud Spend Analytics",
+      "period": "Period"
+    },
+    "allocation": {
+      "title": "Cost Allocation",
+      "compute": "Compute",
+      "storage": "Storage",
+      "api": "APIs & Services",
+      "networking": "Networking",
+      "credits": "Credits Applied"
+    },
+    "resources": {
+      "title": "Azure Resource Consumption",
+      "resource": "Resource/Service",
+      "dailyBurn": "Daily Burn Rate",
+      "monthlyEstimate": "Monthly Est.",
+      "unitCost": "Unit Cost",
+      "efficiency": "Efficiency %"
+    }
+  },
+  "operationsPage": {
+    "header": {
+      "title": "Deployment Pipeline. All Objectives Tracked.",
+      "subtitle": "Deployment registry • Real-time status monitoring"
+    },
+    "allDeployments": "All Deployments",
+    "deployed": "Deployed"
+  },
+  "signalsPage": {
+    "header": {
+      "title": "Signal Intelligence. Neural Link Active.",
+      "subtitle": "Frequency monitoring • Real-time telemetry"
+    },
+    "scanner": {
+      "title": "Frequency Scanner",
+      "subtitle": "Motion-driven waveform analysis"
+    },
+    "metrics": {
+      "integrity": "Signal Integrity",
+      "neuralLink": "Neural Link",
+      "latency": "Latency",
+      "active": "Active"
+    },
+    "feed": {
+      "title": "Signal Feed",
+      "monitoring": "6 channels monitored"
+    },
+    "stats": {
+      "activeChannels": "Active Channels",
+      "dataTransferred": "Data Transferred",
+      "uptime": "Uptime"
+    }
+  },
+  "login": {
+    "title": "Enterprise AI Platform Access",
+    "subtitle": "Secure access required for command center",
+    "emailLabel": "Email or Username",
+    "emailPlaceholder": "admin@enterprise.ai",
+    "passwordLabel": "Password",
+    "passwordPlaceholder": "••••••••",
+    "submitButton": "AUTHENTICATE",
+    "submitting": "AUTHENTICATING...",
+    "errorInvalid": "Invalid credentials. Access denied.",
+    "errorGeneral": "Authentication failed. Please try again.",
+    "signupPrompt": "New user?",
+    "signupLink": "Request access"
+  }
+}

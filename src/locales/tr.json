@@ -1,0 +1,118 @@
+{
+  "nav": {
+    "command": "Hub",
+    "operations": "Operasyonlar",
+    "finops": "Finansal Operasyonlar",
+    "signals": "Sinyaller"
+  },
+  "header": {
+    "title": "Kurumsal AI Platformu Çevrimiçi",
+    "subtitle": "Operasyon merkezi • Tüm sistemler operasyonel"
+  },
+  "metrics": {
+    "activeDeployments": "Aktif Dağıtımlar",
+    "monthlyBurn": "Aylık Bulut Harcaması",
+    "efficiency": "Bulut Verimliliği"
+  },
+  "operations": {
+    "title": "Aktif Dağıtımlar",
+    "viewAll": "Tümünü gör",
+    "progress": "İlerleme",
+    "due": "Bitiş",
+    "deployed": "Dağıtıldı",
+    "inProgress": "Devam Ediyor",
+    "failed": "Başarısız"
+  },
+  "clients": {
+    "nebulaLabs": "Nebula Labs",
+    "phoenixCorp": "Phoenix Corp",
+    "cosmosInc": "Cosmos Inc",
+    "stellarMedia": "Stellar Media",
+    "orbitTech": "Orbit Tech"
+  },
+  "deploymentNames": {
+    "azureOpenAIIntegration": "Azure OpenAI Entegrasyonu",
+    "cognitiveServicesDeployment": "Bilişsel Hizmetler Dağıtımı",
+    "mlPipelineOptimization": "ML Pipeline Optimizasyonu",
+    "aiHubInfrastructure": "AI Hub Altyapısı",
+    "dataProcessingCluster": "Veri İşleme Kümesi"
+  },
+  "finops": {
+    "header": {
+      "title": "Finansal Operasyon Komutası",
+      "subtitle": "Bulut maliyet analitiği • Gerçek zamanlı kaynak izleme"
+    },
+    "budgetHealth": {
+      "title": "Bulut Bütçe Durumu",
+      "monthlyBudget": "Aylık Bütçe",
+      "ytdUtilization": "YTD Kullanım"
+    },
+    "spend": {
+      "title": "Bulut Harcama Analitiği",
+      "period": "Dönem"
+    },
+    "allocation": {
+      "title": "Maliyet Dağılımı",
+      "compute": "İşlem",
+      "storage": "Depolama",
+      "api": "API'ler ve Hizmetler",
+      "networking": "Ağ İletişimi",
+      "credits": "Uygulanan Krediler"
+    },
+    "resources": {
+      "title": "Azure Kaynak Tüketimi",
+      "resource": "Kaynak/Hizmet",
+      "dailyBurn": "Günlük Harcama",
+      "monthlyEstimate": "Aylık Tahmin",
+      "unitCost": "Birim Maliyet",
+      "efficiency": "Verimlilik %"
+    }
+  },
+  "operationsPage": {
+    "header": {
+      "title": "Dağıtım Pipeline'ı. Tüm Hedefler İzleniyor.",
+      "subtitle": "Dağıtım sicili • Gerçek zamanlı durum takibi"
+    },
+    "allDeployments": "Tüm Dağıtımlar",
+    "deployed": "Dağıtıldı"
+  },
+  "signalsPage": {
+    "header": {
+      "title": "Sinyal İstihbaratı. Nöral Bağlantı Aktif.",
+      "subtitle": "Frekans izleme • Gerçek zamanlı telemetri"
+    },
+    "scanner": {
+      "title": "Frekans Tarayıcı",
+      "subtitle": "Hareket güdümlü dalga formu analizi"
+    },
+    "metrics": {
+      "integrity": "Sinyal Bütünlüğü",
+      "neuralLink": "Nöral Bağlantı",
+      "latency": "Gecikme",
+      "active": "Aktif"
+    },
+    "feed": {
+      "title": "Sinyal Akışı",
+      "monitoring": "6 kanal izleniyor"
+    },
+    "stats": {
+      "activeChannels": "Aktif Kanallar",
+      "dataTransferred": "Aktarılan Veri",
+      "uptime": "Çalışma Süresi"
+    }
+  },
+  "login": {
+    "title": "Kurumsal AI Platformu Erişimi",
+    "subtitle": "Komuta merkezi için güvenli erişim gerekli",
+    "emailLabel": "E-posta veya Kullanıcı Adı",
+    "emailPlaceholder": "admin@enterprise.ai",
+    "passwordLabel": "Şifre",
+    "passwordPlaceholder": "••••••••",
+    "submitButton": "KİMLİK DOĞRULA",
+    "submitting": "KİMLİK DOĞRULANIYOR...",
+    "errorInvalid": "Geçersiz kimlik bilgileri. Erişim reddedildi.",
+    "errorGeneral": "Kimlik doğrulama başarısız. Lütfen tekrar deneyin.",
+    "signupPrompt": "Yeni kullanıcı?",
+    "signupLink": "Erişim talep et"
+  }
+}
